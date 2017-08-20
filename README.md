@@ -1,6 +1,3 @@
-https://mrenaut.github.io/bootstrap-portfolio/
-
-
 
 
 
@@ -22,11 +19,13 @@ LIRI BOT is a command line node app Language Interpretation and Recognition Inte
 
 [Click here to go to the live link](https://mrenaut.github.io/trivia-game/).
 -->
+<!--
 
 
 SCREENSHOT FROM GAME
 
+-->
+
+![](liri-node-app/under construction.jpg)
 
 ![](under construction.jpg)
-
-![](/assets/images/screenshot1.JPG)
