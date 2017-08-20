@@ -26,6 +26,6 @@ SCREENSHOT FROM GAME
 
 -->
 
-![](liri-node-app/under construction.jpg)
-
 ![](under construction.jpg)
+
+![](/under construction.jpg)
