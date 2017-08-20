@@ -27,4 +27,4 @@ SCREENSHOT FROM GAME
 -->
 
 
-![](/assets/images/screenshot1.JPG)
+![](/assets/images/underConstruction.jpg)
