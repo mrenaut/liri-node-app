@@ -27,4 +27,6 @@ LIRI BOT is a command line node app Language Interpretation and Recognition Inte
 SCREENSHOT FROM GAME
 
 
-![](/under construction.jpg)
+![](under construction.jpg)
+
+![](/assets/images/screenshot1.JPG)
